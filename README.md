@@ -1,4 +1,4 @@
-# 🪑 Essence Bespoke | Vibe Code ✨
+# 🪑 Essence Custom Furniture | Vibe Code ✨
 
 > A premium, interactive landing page developed for high-end custom furniture stores and bespoke carpenters looking to convert visitors into qualified leads.
 
@@ -46,7 +46,7 @@ If you are a developer and want to use the base version of this template, feel f
 
 
 
-# 🪑 Essência Planejados (Essence Bespoke) | Vibe Code ✨
+# 🪑 Essence Móveis Personalizados (Essence Custom Furniture) | Vibe Code ✨
 
 > Uma landing page premium e interativa, desenvolvida para marcenarias de alto padrão e lojas de móveis planejados que desejam converter visitantes em clientes qualificados.
 
